@@ -40,7 +40,7 @@ setup(
     install_requires=[
         'eventlet>=0.31.0',
         'gevent>=21.1.2',
-        'pymongo>=4.0.2',      # 3.5.1  -> 4.0.2
+        'pymongo>=4.1.1',      # 3.5.1  -> 4.0.2
         'AMQPStorm==2.7.1',
         'rabbitpy==2.0.1',
         'decorator==4.4.0',
