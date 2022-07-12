@@ -1,8 +1,8 @@
 ## 这里的不用管，可能没及时更新维护， pip install function_scheduling_distributed_framework 自动安装所有依赖包
 
-eventlet==0.31.0
-gevent==21.1.2
-pymongo==4.0.2
+eventlet>=0.31.0
+gevent>=21.1.2
+pymongo>=4.0.2
 AMQPStorm==2.7.1
 rabbitpy==2.0.1
 gnsq==1.0.1
