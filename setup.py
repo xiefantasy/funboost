@@ -65,7 +65,7 @@ setup(
         'redis2',
         'redis3',
         'redis',
-        'nb_log @ git+ssh://git@codeup.aliyun.com:62c7f4d33e81781f3ad21f82/nb-log.git',
+        'nb_log @ git+ssh://git@codeup.aliyun.com:62c7f4d33e81781f3ad21f82/gameDemo/nb-log.git',
         'rocketmq',
         'zmq',
         'pyzmq',
