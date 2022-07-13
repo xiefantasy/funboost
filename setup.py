@@ -76,7 +76,7 @@ setup(
         'fabric2==2.6.0',  # 有的机器包rust错误， 这样做 curl https://sh.rustup.rs -sSf | sh
         'nats-python',
         'nb_filelock',
-        'aiohttp==3.8.0',
+        'aiohttp>=3.8.0',
         'pysnooper',
         'deprecated'
     ]
