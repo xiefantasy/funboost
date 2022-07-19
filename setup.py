@@ -57,7 +57,7 @@ setup(
         'requests',
         'gnsq==1.0.1',
         'psutil',
-        'sqlalchemy=1.3.10',
+        'sqlalchemy==1.3.10',
         'sqlalchemy_utils==0.36.1',
         'apscheduler>=3.7.0',
         'pikav0',
