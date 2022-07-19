@@ -3,7 +3,7 @@
 eventlet>=0.31.0
 gevent>=21.1.2
 pymongo>=4.1.1
-AMQPStorm==2.7.1
+AMQPStorm>=2.7.1
 rabbitpy==2.0.1
 gnsq==1.0.1
 kafka-python==1.4.6
