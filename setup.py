@@ -41,9 +41,9 @@ setup(
         'eventlet>=0.31.0',
         'gevent>=21.1.2',
         'pymongo>=4.1.1',      # 3.5.1  -> 4.0.2
-        'AMQPStorm==2.7.1',
-        'rabbitpy==2.0.1',
-        'decorator==4.4.0',
+        'AMQPStorm>=2.7.1',
+        'rabbitpy>=2.0.1',
+        'decorator>=4.4.0',
         # 'pysnooper==0.0.11',
         'Flask',
         'flask_bootstrap',
@@ -59,7 +59,7 @@ setup(
         'psutil',
         'sqlalchemy==1.3.10',
         'sqlalchemy_utils==0.36.1',
-        'apscheduler==3.7.0',
+        'apscheduler>=3.7.0',
         'pikav0',
         'pikav1',
         'redis2',
@@ -73,7 +73,7 @@ setup(
         # 'confluent_kafka==1.7.0',
         'paho-mqtt',
         'setuptools_rust',
-        'fabric2==2.6.0',  # 有的机器包rust错误， 这样做 curl https://sh.rustup.rs -sSf | sh
+        'fabric2>=2.6.0',  # 有的机器包rust错误， 这样做 curl https://sh.rustup.rs -sSf | sh
         'nats-python',
         'nb_filelock',
         'aiohttp>=3.8.0',
